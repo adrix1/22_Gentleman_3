@@ -1,0 +1,19 @@
+li{
+	list-style: none;
+	color: white;
+}
+#paisaje{
+	width: 600px;
+	height: 600;
+}
+.bck{
+	background-color: black;
+	height: 150px;
+}
+.boton{
+	width: 80px;
+	height: 30px;
+	background-color: black; 
+	opacity: .5;
+	border-radius: 15px;
+}
